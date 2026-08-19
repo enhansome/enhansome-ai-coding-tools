@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:45:47Z",
+            "last_commit": "2026-08-19T01:07:23Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106560
+            "stars": 106571
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666299222,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:27:04Z",
+            "last_commit": "2026-08-19T11:41:32Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68055
+            "stars": 68068
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:59:56Z",
+            "last_commit": "2026-08-19T11:32:56Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 66420
+            "stars": 66465
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680120071,
             "language": "Python",
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60498
+            "stars": 60511
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 634224458,
             "language": "Python",
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55135
+            "stars": 55134
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846698999,
             "language": "Rust",
-            "last_commit": "2026-08-18T19:52:56Z",
+            "last_commit": "2026-08-19T11:07:09Z",
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 52962
+            "stars": 52985
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638629097,
             "language": "Python",
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48312
+            "stars": 48324
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 780737106,
             "language": "Python",
             "last_commit": "2026-08-17T22:33:19Z",
             "owner": "SWE-agent",
             "repo": "SWE-agent",
-            "stars": 20078
+            "stars": 20081
           }
         },
         {
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 949662713,
             "language": "Go",
             "last_commit": "2025-09-18T02:54:28Z",
             "owner": "opencode-ai",
             "repo": "opencode",
-            "stars": 13673
+            "stars": 13674
           }
         },
         {
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640161038,
             "language": "Python",
             "last_commit": "2024-04-07T07:11:03Z",
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12187
+            "stars": 12186
           }
         },
         {
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-18T10:39:01Z",
+            "last_commit": "2026-08-19T11:52:05Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8917
+            "stars": 8920
           }
         },
         {
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161242607,
             "language": "TypeScript",
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 647
+            "stars": 648
           }
         },
         {
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186420311,
             "language": "Go",
             "last_commit": "2026-08-09T09:05:00Z",
             "owner": "PacificStudio",
@@ -192,8 +205,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1157363528,
             "language": "Go",
-            "last_commit": "2026-08-18T17:46:33Z",
+            "last_commit": "2026-08-18T22:35:50Z",
             "owner": "stacklok",
             "repo": "brood-box",
             "stars": 58
@@ -206,24 +220,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1192517317,
             "language": "TypeScript",
             "last_commit": "2026-07-18T04:02:37Z",
             "owner": "Kalmuraee",
             "repo": "OpenMagic",
             "stars": 10
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Agent Shadow Brain – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Coding Agents"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -232,11 +241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:45:47Z",
+            "last_commit": "2026-08-19T01:07:23Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106560
+            "stars": 106571
           }
         },
         {
@@ -246,11 +256,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638629097,
             "language": "Python",
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48312
+            "stars": 48324
           }
         },
         {
@@ -260,11 +271,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212613049,
             "language": "Go",
-            "last_commit": "2026-08-18T14:55:47Z",
+            "last_commit": "2026-08-19T11:47:59Z",
             "owner": "cli",
             "repo": "cli",
-            "stars": 45879
+            "stars": 45887
           }
         },
         {
@@ -274,11 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 949662713,
             "language": "Go",
             "last_commit": "2025-09-18T02:54:28Z",
             "owner": "opencode-ai",
             "repo": "opencode",
-            "stars": 13673
+            "stars": 13674
           }
         },
         {
@@ -288,11 +301,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 590604203,
             "language": "Python",
             "last_commit": "2026-07-02T06:03:01Z",
             "owner": "TheR1D",
             "repo": "shell_gpt",
-            "stars": 12240
+            "stars": 12245
           }
         },
         {
@@ -302,11 +316,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601399291,
             "language": "TypeScript",
             "last_commit": "2026-08-14T15:26:32Z",
             "owner": "Nutlope",
             "repo": "aicommits",
-            "stars": 9089
+            "stars": 9092
           }
         },
         {
@@ -316,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148288640,
             "language": "TypeScript",
             "last_commit": "2026-05-06T05:35:18Z",
             "owner": "ramarlina",
@@ -330,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199362726,
             "language": "TypeScript",
             "last_commit": "2026-04-18T15:47:52Z",
             "owner": "vincent-k2026",
@@ -341,7 +358,7 @@
       "title": "CLI Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -350,11 +367,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718741813,
             "language": "Python",
             "last_commit": "2026-08-14T17:20:50Z",
             "owner": "abi",
             "repo": "screenshot-to-code",
-            "stars": 74174
+            "stars": 74213
           }
         },
         {
@@ -364,11 +382,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872087586,
             "language": "TypeScript",
             "last_commit": "2026-02-07T14:36:22Z",
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19761
+            "stars": 19766
           }
         },
         {
@@ -378,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 709538270,
             "language": "Go",
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
@@ -389,7 +409,7 @@
       "title": "App Builders"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -398,11 +418,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662766482,
             "language": "Python",
-            "last_commit": "2026-08-18T15:46:03Z",
+            "last_commit": "2026-08-19T08:39:02Z",
             "owner": "The-PR-Agent",
             "repo": "pr-agent",
-            "stars": 12603
+            "stars": 12615
           }
         },
         {
@@ -412,11 +433,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 653574784,
             "language": "Jupyter Notebook",
             "last_commit": "2025-09-18T06:10:59Z",
             "owner": "sweepai",
             "repo": "sweep",
-            "stars": 7699
+            "stars": 7700
           }
         },
         {
@@ -426,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1163987910,
             "language": "JavaScript",
             "last_commit": "2026-04-16T15:17:28Z",
             "owner": "tarmojussila",
@@ -440,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1163988406,
             "language": "JavaScript",
             "last_commit": "2026-04-16T16:29:18Z",
             "owner": "tarmojussila",
@@ -454,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184330993,
             "language": "JavaScript",
             "last_commit": "2026-05-20T14:01:02Z",
             "owner": "momobits",
@@ -468,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213515686,
             "language": "Python",
             "last_commit": "2026-07-18T11:32:54Z",
             "owner": "marcoramilli",
@@ -479,7 +505,7 @@
       "title": "Code Review and Refactoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -488,11 +514,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1189384516,
             "language": "Python",
-            "last_commit": "2026-08-18T17:10:20Z",
+            "last_commit": "2026-08-19T12:04:02Z",
             "owner": "repowise-dev",
             "repo": "repowise",
-            "stars": 5997
+            "stars": 6039
           }
         },
         {
@@ -502,11 +529,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589727205,
             "language": "Python",
             "last_commit": "2026-07-04T02:59:13Z",
             "owner": "eli64s",
             "repo": "readme-ai",
-            "stars": 2969
+            "stars": 2971
           }
         },
         {
@@ -516,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203219280,
             "language": "TypeScript",
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
@@ -527,7 +556,7 @@
       "title": "Documentation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -536,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 787368344,
             "language": "Python",
             "last_commit": "2026-03-24T08:22:10Z",
             "owner": "QwenLM",
@@ -550,11 +580,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 682604510,
             "language": "Python",
             "last_commit": "2024-08-12T12:49:54Z",
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16273
+            "stars": 16272
           }
         },
         {
@@ -564,18 +595,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 814950657,
             "language": null,
             "last_commit": "2025-11-11T06:44:45Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder-V2",
-            "stars": 6992
+            "stars": 6991
           }
         }
       ],
       "title": "Code Models"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -584,11 +616,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 942837343,
             "language": "JavaScript",
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28004
+            "stars": 28001
           }
         },
         {
@@ -598,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193374549,
             "language": "TypeScript",
             "last_commit": "2026-08-14T06:48:07Z",
             "owner": "nowork-studio",
@@ -612,11 +646,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012625755,
             "language": "Rust",
-            "last_commit": "2026-08-18T15:19:57Z",
+            "last_commit": "2026-08-18T22:06:21Z",
             "owner": "git-ai-project",
             "repo": "git-ai",
-            "stars": 2470
+            "stars": 2473
           }
         },
         {
@@ -626,8 +661,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1210014431,
             "language": "Rust",
-            "last_commit": "2026-08-18T00:57:08Z",
+            "last_commit": "2026-08-19T00:42:55Z",
             "owner": "erishforG",
             "repo": "git-parsec",
             "stars": 15
@@ -640,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1215089312,
             "language": "Shell",
             "last_commit": "2026-08-18T07:34:06Z",
             "owner": "Qovery",
@@ -654,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153154345,
             "language": null,
             "last_commit": "2026-03-03T03:46:14Z",
             "owner": "zagmoai",
@@ -668,24 +706,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199924397,
             "language": "Python",
             "last_commit": "2026-07-01T23:16:04Z",
             "owner": "sapph1re",
             "repo": "agent-cost-guardrails",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Burnd – Local-first CLI () that parses your session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Developer Productivity Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -694,11 +727,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-18T19:58:17Z",
+            "last_commit": "2026-08-19T09:52:35Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 56665
+            "stars": 56734
           }
         },
         {
@@ -708,11 +742,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607289185,
             "language": "C#",
             "last_commit": "2026-08-18T15:00:22Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28461
+            "stars": 28463
           }
         },
         {
@@ -722,24 +757,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:28:36Z",
+            "last_commit": "2026-08-18T22:33:59Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24343
+            "stars": 24370
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Omni Skills Forge – Skill and command manager for AI assistants with dynamic loading and execution.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "AI Frameworks and SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -748,11 +778,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 683212753,
             "language": null,
             "last_commit": "2025-12-31T14:46:19Z",
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 5990
+            "stars": 5997
           }
         },
         {
@@ -762,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684192747,
             "language": "HTML",
             "last_commit": "2026-08-13T09:17:26Z",
             "owner": "awesome-vibe-coding",
@@ -776,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 920084195,
             "language": null,
             "last_commit": "2026-02-02T13:48:07Z",
             "owner": "alternbits",
@@ -788,8 +821,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:01:35.473Z",
+    "last_updated": "2026-08-19T12:13:16.434Z",
     "original_repository": "ai-for-developers/awesome-ai-coding-tools",
+    "original_repository_id": 1009637873,
     "original_repository_sha": "172db982165e601131823678c5d37ce6c7775ab4",
     "enhanced_repository": "enhansome/enhansome-ai-coding-tools",
     "enhanced_repository_description": null,
