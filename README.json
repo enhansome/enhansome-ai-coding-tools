@@ -5,23 +5,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Gemini CLI – Google's terminal coding agent powered by Gemini.",
-          "description": null,
+          "title": "Gemini CLI",
+          "description": "Google's terminal coding agent powered by Gemini.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T01:15:05Z",
+            "last_commit": "2026-08-24T00:59:21Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106634
+            "stars": 106660
           }
         },
         {
           "node_type": "item",
-          "title": "Open Interpreter – Open-source agent that runs code locally in response to natural language, supporting Python, JS, shell, and more.",
-          "description": null,
+          "title": "Open Interpreter",
+          "description": "Open-source agent that runs code locally in response to natural language, supporting Python, JS, shell, and more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,28 +30,28 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68120
+            "stars": 68131
           }
         },
         {
           "node_type": "item",
-          "title": "Cline (Claude Dev) – VS Code extension with full file system access and autonomous coding.",
-          "description": null,
+          "title": "Cline (Claude Dev)",
+          "description": "VS Code extension with full file system access and autonomous coding.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T19:56:06Z",
+            "last_commit": "2026-08-23T22:59:35Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 66724
+            "stars": 66760
           }
         },
         {
           "node_type": "item",
-          "title": "AutoGen – Microsoft's multi-agent framework for building AI agent teams that collaborate on coding tasks.",
-          "description": null,
+          "title": "AutoGen",
+          "description": "Microsoft's multi-agent framework for building AI agent teams that collaborate on coding tasks.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,13 +60,13 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60594
+            "stars": 60608
           }
         },
         {
           "node_type": "item",
-          "title": "GPT Engineer – AI agent for building full applications from natural language.",
-          "description": null,
+          "title": "GPT Engineer",
+          "description": "AI agent for building full applications from natural language.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -75,28 +75,28 @@
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55124
+            "stars": 55122
           }
         },
         {
           "node_type": "item",
-          "title": "Codename Goose – Desktop and CLI agent by Block for automating tasks using LLMs and extensions.",
-          "description": null,
+          "title": "Codename Goose",
+          "description": "Desktop and CLI agent by Block for automating tasks using LLMs and extensions.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 846698999,
             "language": "Rust",
-            "last_commit": "2026-08-22T00:11:06Z",
+            "last_commit": "2026-08-24T13:59:49Z",
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 53320
+            "stars": 53357
           }
         },
         {
           "node_type": "item",
-          "title": "Aider – AI coding agent for collaborative editing and code generation via CLI.",
-          "description": null,
+          "title": "Aider",
+          "description": "AI coding agent for collaborative editing and code generation via CLI.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,13 +105,13 @@
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48428
+            "stars": 48452
           }
         },
         {
           "node_type": "item",
-          "title": "SWE-agent – Princeton's autonomous agent that resolves real GitHub issues by navigating repos, editing files, and running tests.",
-          "description": null,
+          "title": "SWE-agent",
+          "description": "Princeton's autonomous agent that resolves real GitHub issues by navigating repos, editing files, and running tests.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -120,13 +120,13 @@
             "last_commit": "2026-08-17T22:33:19Z",
             "owner": "SWE-agent",
             "repo": "SWE-agent",
-            "stars": 20112
+            "stars": 20119
           }
         },
         {
           "node_type": "item",
-          "title": "OpenCode – Open-source terminal AI agent (95K+ GitHub stars) supporting 75+ providers. Free, privacy-first, with LSP integration.",
-          "description": null,
+          "title": "OpenCode",
+          "description": "Open-source terminal AI agent (95K+ GitHub stars) supporting 75+ providers. Free, privacy-first, with LSP integration.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -135,13 +135,13 @@
             "last_commit": "2025-09-18T02:54:28Z",
             "owner": "opencode-ai",
             "repo": "opencode",
-            "stars": 13691
+            "stars": 13695
           }
         },
         {
           "node_type": "item",
-          "title": "Smol Developer – Lightweight AI coding agent for rapid prototyping.",
-          "description": null,
+          "title": "Smol Developer",
+          "description": "Lightweight AI coding agent for rapid prototyping.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,28 +150,28 @@
             "last_commit": "2024-04-07T07:11:03Z",
             "owner": "smol-ai",
             "repo": "developer",
-            "stars": 12185
+            "stars": 12184
           }
         },
         {
           "node_type": "item",
-          "title": "PraisonAI – Multi-agent framework with 100+ LLM support and MCP integration.",
-          "description": null,
+          "title": "PraisonAI",
+          "description": "Multi-agent framework with 100+ LLM support and MCP integration.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 774497032,
             "language": "Python",
-            "last_commit": "2026-08-23T17:13:48Z",
+            "last_commit": "2026-08-24T14:02:51Z",
             "owner": "MervinPraison",
             "repo": "PraisonAI",
-            "stars": 8948
+            "stars": 8951
           }
         },
         {
           "node_type": "item",
-          "title": "SwarmClaw – Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, and messaging connectors. Electron desktop app, CLI, and Docker.",
-          "description": null,
+          "title": "SwarmClaw",
+          "description": "Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, and messaging connectors. Electron desktop app, CLI, and Docker.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -180,13 +180,13 @@
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 649
+            "stars": 653
           }
         },
         {
           "node_type": "item",
-          "title": "OpenASE – Open-source, ticket-driven software engineering platform that orchestrates Claude Code, Codex, and Gemini CLI agents across your machines with workflows, skills, and full traceability.",
-          "description": null,
+          "title": "OpenASE",
+          "description": "Open-source, ticket-driven software engineering platform that orchestrates Claude Code, Codex, and Gemini CLI agents across your machines with workflows, skills, and full traceability.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "brood-box – Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.",
-          "description": null,
+          "title": "brood-box",
+          "description": "Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -210,13 +210,13 @@
             "last_commit": "2026-08-21T17:45:49Z",
             "owner": "stacklok",
             "repo": "brood-box",
-            "stars": 60
+            "stars": 61
           }
         },
         {
           "node_type": "item",
-          "title": "OpenMagic – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.",
-          "description": null,
+          "title": "OpenMagic",
+          "description": "AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,23 +236,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Gemini CLI – Google's open-source terminal coding agent with free Gemini 3 Pro access and 1M token context.",
-          "description": null,
+          "title": "Gemini CLI",
+          "description": "Google's open-source terminal coding agent with free Gemini 3 Pro access and 1M token context.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T01:15:05Z",
+            "last_commit": "2026-08-24T00:59:21Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106634
+            "stars": 106660
           }
         },
         {
           "node_type": "item",
-          "title": "Aider – Open-source terminal AI pair programmer with deep git integration; every AI edit is auto-committed.",
-          "description": null,
+          "title": "Aider",
+          "description": "Open-source terminal AI pair programmer with deep git integration; every AI edit is auto-committed.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,28 +261,28 @@
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48428
+            "stars": 48452
           }
         },
         {
           "node_type": "item",
-          "title": "GitHub Copilot CLI – GitHub's AI assistant for command-line with context-aware suggestions.",
-          "description": null,
+          "title": "GitHub Copilot CLI",
+          "description": "GitHub's AI assistant for command-line with context-aware suggestions.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 212613049,
             "language": "Go",
-            "last_commit": "2026-08-21T19:44:47Z",
+            "last_commit": "2026-08-24T14:03:29Z",
             "owner": "cli",
             "repo": "cli",
-            "stars": 45952
+            "stars": 45968
           }
         },
         {
           "node_type": "item",
-          "title": "OpenCode – Open-source terminal AI agent supporting 75+ providers with multi-session support. Free.",
-          "description": null,
+          "title": "OpenCode",
+          "description": "Open-source terminal AI agent supporting 75+ providers with multi-session support. Free.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -291,13 +291,13 @@
             "last_commit": "2025-09-18T02:54:28Z",
             "owner": "opencode-ai",
             "repo": "opencode",
-            "stars": 13691
+            "stars": 13695
           }
         },
         {
           "node_type": "item",
-          "title": "ShellGPT – ChatGPT integration for shell command generation and system administration.",
-          "description": null,
+          "title": "ShellGPT",
+          "description": "ChatGPT integration for shell command generation and system administration.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,8 +311,8 @@
         },
         {
           "node_type": "item",
-          "title": "AICommits – AI-powered meaningful git commit message generation.",
-          "description": null,
+          "title": "AICommits",
+          "description": "AI-powered meaningful git commit message generation.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,8 +326,8 @@
         },
         {
           "node_type": "item",
-          "title": "agx – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.",
-          "description": null,
+          "title": "agx",
+          "description": "Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "codachi – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.",
-          "description": null,
+          "title": "codachi",
+          "description": "Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,8 +362,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Screenshot-to-Code – Convert screenshots and designs into clean HTML/React/Vue code using AI.",
-          "description": null,
+          "title": "Screenshot-to-Code",
+          "description": "Convert screenshots and designs into clean HTML/React/Vue code using AI.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -372,13 +372,13 @@
             "last_commit": "2026-08-14T17:20:50Z",
             "owner": "abi",
             "repo": "screenshot-to-code",
-            "stars": 74381
+            "stars": 74404
           }
         },
         {
           "node_type": "item",
-          "title": "Bolt.diy – Open-source fork of Bolt.new supporting any LLM (local or cloud) for building full-stack apps in the browser.",
-          "description": null,
+          "title": "Bolt.diy",
+          "description": "Open-source fork of Bolt.new supporting any LLM (local or cloud) for building full-stack apps in the browser.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -387,13 +387,13 @@
             "last_commit": "2026-02-07T14:36:22Z",
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19797
+            "stars": 19804
           }
         },
         {
           "node_type": "item",
-          "title": "Plandex – AI tool for planning and generating code from text prompts in the terminal.",
-          "description": null,
+          "title": "Plandex",
+          "description": "AI tool for planning and generating code from text prompts in the terminal.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -402,7 +402,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15593
+            "stars": 15594
           }
         }
       ],
@@ -413,23 +413,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Qodo PR Agent – Open-source AI agent for PR reviews with actionable insights.",
-          "description": null,
+          "title": "Qodo PR Agent",
+          "description": "Open-source AI agent for PR reviews with actionable insights.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 662766482,
             "language": "Python",
-            "last_commit": "2026-08-23T18:49:38Z",
+            "last_commit": "2026-08-24T13:31:09Z",
             "owner": "The-PR-Agent",
             "repo": "pr-agent",
-            "stars": 12672
+            "stars": 12687
           }
         },
         {
           "node_type": "item",
-          "title": "Sweep – AI agent for automating PR reviews and fixes.",
-          "description": null,
+          "title": "Sweep",
+          "description": "AI agent for automating PR reviews and fixes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -438,13 +438,13 @@
             "last_commit": "2025-09-18T06:10:59Z",
             "owner": "sweepai",
             "repo": "sweep",
-            "stars": 7702
+            "stars": 7704
           }
         },
         {
           "node_type": "item",
-          "title": "Z.ai Code Review - AI-powered GitHub Pull Request code review using Z.ai models.",
-          "description": null,
+          "title": "Z.ai Code Review",
+          "description": "AI-powered GitHub Pull Request code review using Z.ai models.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -458,8 +458,8 @@
         },
         {
           "node_type": "item",
-          "title": "MiniMax Code Review - AI-powered GitHub Pull Request code review using MiniMax models.",
-          "description": null,
+          "title": "MiniMax Code Review",
+          "description": "AI-powered GitHub Pull Request code review using MiniMax models.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -473,8 +473,8 @@
         },
         {
           "node_type": "item",
-          "title": "Relay – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.",
-          "description": null,
+          "title": "Relay",
+          "description": "Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -488,8 +488,8 @@
         },
         {
           "node_type": "item",
-          "title": "SynthScan – Scans codebases for AI-generated code patterns.",
-          "description": null,
+          "title": "SynthScan",
+          "description": "Scans codebases for AI-generated code patterns.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -509,23 +509,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Repowise - Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.",
-          "description": null,
+          "title": "Repowise",
+          "description": "Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1189384516,
             "language": "Python",
-            "last_commit": "2026-08-23T17:57:04Z",
+            "last_commit": "2026-08-24T13:24:44Z",
             "owner": "repowise-dev",
             "repo": "repowise",
-            "stars": 6181
+            "stars": 6199
           }
         },
         {
           "node_type": "item",
-          "title": "README-AI – AI tool for creating professional README files automatically.",
-          "description": null,
+          "title": "README-AI",
+          "description": "AI tool for creating professional README files automatically.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -534,13 +534,13 @@
             "last_commit": "2026-08-19T22:58:31Z",
             "owner": "eli64s",
             "repo": "readme-ai",
-            "stars": 2976
+            "stars": 2977
           }
         },
         {
           "node_type": "item",
-          "title": "SwarmVault – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.",
-          "description": null,
+          "title": "SwarmVault",
+          "description": "Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -549,7 +549,7 @@
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 665
+            "stars": 667
           }
         }
       ],
@@ -560,8 +560,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Qwen2.5-Coder – Alibaba's open-source coding model, leading choice for self-hosted/local deployment in 2026.",
-          "description": null,
+          "title": "Qwen2.5-Coder",
+          "description": "Alibaba's open-source coding model, leading choice for self-hosted/local deployment in 2026.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,8 +575,8 @@
         },
         {
           "node_type": "item",
-          "title": "Code Llama – Meta's open-source LLM optimized for code generation and completion.",
-          "description": null,
+          "title": "Code Llama",
+          "description": "Meta's open-source LLM optimized for code generation and completion.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -590,8 +590,8 @@
         },
         {
           "node_type": "item",
-          "title": "DeepSeek Coder – High-performance open-source coding model; popular for cost-efficient AI coding via API.",
-          "description": null,
+          "title": "DeepSeek Coder",
+          "description": "High-performance open-source coding model; popular for cost-efficient AI coding via API.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -600,7 +600,7 @@
             "last_commit": "2025-11-11T06:44:45Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder-V2",
-            "stars": 7000
+            "stars": 7001
           }
         }
       ],
@@ -611,8 +611,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Task Master – AI-driven task management for development with Claude, designed for Cursor.",
-          "description": null,
+          "title": "Task Master",
+          "description": "AI-driven task management for development with Claude, designed for Cursor.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -621,13 +621,13 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28014
+            "stars": 28017
           }
         },
         {
           "node_type": "item",
-          "title": "toprank – Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.",
-          "description": null,
+          "title": "toprank",
+          "description": "Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -636,34 +636,34 @@
             "last_commit": "2026-08-22T06:29:05Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3394
+            "stars": 3397
           }
         },
         {
           "node_type": "item",
-          "title": "Git AI – Git extension that tracks AI-generated code and the prompts behind each line.",
-          "description": null,
+          "title": "Git AI",
+          "description": "Git extension that tracks AI-generated code and the prompts behind each line.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1012625755,
             "language": "Rust",
-            "last_commit": "2026-08-23T16:41:05Z",
+            "last_commit": "2026-08-24T07:57:01Z",
             "owner": "git-ai-project",
             "repo": "git-ai",
-            "stars": 2493
+            "stars": 2496
           }
         },
         {
           "node_type": "item",
-          "title": "git-parsec – Git worktree lifecycle manager that gives each AI agent an isolated workspace tied to issue tickets (Jira, GitHub Issues, GitLab), avoiding index.lock conflicts in parallel workflows.",
-          "description": null,
+          "title": "git-parsec",
+          "description": "Git worktree lifecycle manager that gives each AI agent an isolated workspace tied to issue tickets (Jira, GitHub Issues, GitLab), avoiding index.lock conflicts in parallel workflows.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1210014431,
             "language": "Rust",
-            "last_commit": "2026-08-23T00:44:13Z",
+            "last_commit": "2026-08-24T00:43:53Z",
             "owner": "erishforG",
             "repo": "git-parsec",
             "stars": 15
@@ -671,8 +671,8 @@
         },
         {
           "node_type": "item",
-          "title": "Qovery Deploy Skill – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: .",
-          "description": null,
+          "title": "Qovery Deploy Skill",
+          "description": "AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: .",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,8 +686,8 @@
         },
         {
           "node_type": "item",
-          "title": "Google Drive – Memyard – Agent skill that lets AI coding agents create and edit Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links.",
-          "description": null,
+          "title": "Google Drive – Memyard",
+          "description": "Agent skill that lets AI coding agents create and edit Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -701,8 +701,8 @@
         },
         {
           "node_type": "item",
-          "title": "Agent Cost Guardrails – Framework-native budget limits and circuit breakers for AI agent frameworks (CrewAI, AutoGen, LangGraph). Hard token caps, cost alerts, and spend tracking with hooks that integrate directly into agent execution loops. Open-source, available on PyPI",
-          "description": "and npm.",
+          "title": "Agent Cost Guardrails",
+          "description": "Framework-native budget limits and circuit breakers for AI agent frameworks (CrewAI, AutoGen, LangGraph). Hard token caps, cost alerts, and spend tracking with hooks that integrate directly into agent execution loops. Open-source, available on PyPI and npm.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -722,23 +722,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "LiteLLM – Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and rate limiting.",
-          "description": null,
+          "title": "LiteLLM",
+          "description": "Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and rate limiting.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-23T19:07:38Z",
+            "last_commit": "2026-08-24T13:13:55Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57079
+            "stars": 57141
           }
         },
         {
           "node_type": "item",
-          "title": "Semantic Kernel – Microsoft's SDK for integrating LLMs into C#, Python, and Java applications.",
-          "description": null,
+          "title": "Semantic Kernel",
+          "description": "Microsoft's SDK for integrating LLMs into C#, Python, and Java applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -747,22 +747,22 @@
             "last_commit": "2026-08-21T02:44:34Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28481
+            "stars": 28489
           }
         },
         {
           "node_type": "item",
-          "title": "Promptfoo – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.",
-          "description": null,
+          "title": "Promptfoo",
+          "description": "Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:07:45Z",
+            "last_commit": "2026-08-24T05:56:25Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24487
+            "stars": 24525
           }
         }
       ],
@@ -773,8 +773,50 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Awesome AI Tools – General AI tools for various applications.",
-          "description": null,
+          "title": "llamafile",
+          "description": "Mozilla project that packages LLMs into single executable files that run anywhere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 689773665,
+            "language": "C++",
+            "last_commit": "2026-08-21T15:14:03Z",
+            "owner": "mozilla-ai",
+            "repo": "llamafile",
+            "stars": 25687
+          }
+        }
+      ],
+      "title": "Local LLM Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bearer CLI",
+          "description": "Open-source static security analysis for sensitive data exposure and GDPR/PCI compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 542197924,
+            "language": "Go",
+            "last_commit": "2026-08-24T09:52:10Z",
+            "owner": "Bearer",
+            "repo": "bearer",
+            "stars": 2735
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome AI Tools",
+          "description": "General AI tools for various applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -783,13 +825,13 @@
             "last_commit": "2025-12-31T14:46:19Z",
             "owner": "mahseema",
             "repo": "awesome-ai-tools",
-            "stars": 6027
+            "stars": 6031
           }
         },
         {
           "node_type": "item",
-          "title": "Awesome Vibe Coding – Tools and resources for vibe coding.",
-          "description": null,
+          "title": "Awesome Vibe Coding",
+          "description": "Tools and resources for vibe coding.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -798,13 +840,13 @@
             "last_commit": "2026-08-13T09:17:26Z",
             "owner": "awesome-vibe-coding",
             "repo": "awesome-vibe-coding",
-            "stars": 820
+            "stars": 821
           }
         },
         {
           "node_type": "item",
-          "title": "Awesome AI Agents – AI agents for automation and development.",
-          "description": null,
+          "title": "Awesome AI Agents",
+          "description": "AI agents for automation and development.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -821,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:00:19.433Z",
+    "last_updated": "2026-08-24T14:05:06.423Z",
     "original_repository": "ai-for-developers/awesome-ai-coding-tools",
     "original_repository_id": 1009637873,
     "original_repository_sha": "172db982165e601131823678c5d37ce6c7775ab4",
